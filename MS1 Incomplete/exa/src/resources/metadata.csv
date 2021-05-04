@@ -1,0 +1,4 @@
+Table Name,Column Name,Column Type,Clustering Key,Min,Max,
+Student,Specialization,java.lang.String,false,AA,XZZZZZZZZ,
+Student,Name,java.lang.String,true,A,ZZZZZZZZZZZZZZ,
+Student,ID,java.lang.Integer,false,0,10000,
